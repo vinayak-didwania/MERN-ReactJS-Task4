@@ -1,0 +1,19 @@
+/* Usertable.css */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  table, th, td {
+    border: 1px solid white;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #333;
+  }
